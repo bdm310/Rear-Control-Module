@@ -18,7 +18,7 @@ Measurements
 ## Mods for LED Rear Lights
 - Lift pins 4, 6 on VN450P (red boxes)
 - Lift pin 5 on both BTS611 (red boxes)
-- Replace sense resistor on BTS640 (board edge) with 47kOhm (yellow box)
+- Replace sense resistor on BTS640 (board edge) with a 47kOhm 0603 resistor(yellow box)
 - Bonus point - solder one side of the original 4.74kOhm resistor to this empty pad so that it's right there if someone wants to revert these modifications (teal box)
 
 ![Modified Areas](<Board Top - Modifications.jpg>)
